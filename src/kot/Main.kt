@@ -2,5 +2,7 @@ package kot
 
 
 fun main() {
-        println("Hello world")
+        val name = "Ivan"
+        var age = 1
+        println()
 }
